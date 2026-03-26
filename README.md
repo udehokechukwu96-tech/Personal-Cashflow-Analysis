@@ -14,7 +14,7 @@ This is not just a dashboard built for the thrill of it. The objective of this p
 
 •	Analyze expenses by category, and
 
-•	Analyze expenses and channel 
+•	Analyze expenses by the channel 
 
 ## Dashboard Features
 # Income Analysis
