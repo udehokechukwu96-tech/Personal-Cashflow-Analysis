@@ -19,12 +19,12 @@ This is not just a dashboard built for the thrill of it. The objective of this p
 ## Dashboard Features
 # Income Analysis
 
-•	Displays total income (₦4.19M)
+•	Displays total income **(₦4.19M)**
 
 •	Tracks income trend across 1000 transactions 
 
 # Expense Analysis
-•	Total expenses (₦4.22M)
+•	Total expenses **(₦4.22M)**
 
 •	Displays expenses trend and fluctuations across 1089 transactions 
 
@@ -41,7 +41,7 @@ o	Data Bundle
 
 o	Airtime Bundle 
 
-The differentiation into Data and Airtime Bundles was made to visualize the total amount spent on purchasing data and airtime bundles. Overall, the total of ₦34.71K was spent on airtime bundle, and ₦164.3K was spent on data bundle (nearly five times more than what was spent on airtime).
+The differentiation into Data and Airtime Bundles was made to visualize the total amount spent on purchasing data and airtime bundles. Overall, the total of **₦34.71K** was spent on airtime bundle, and **₦164.3K** was spent on data bundle (nearly five times more than what was spent on airtime).
 
 # Expenses by Channel
 
