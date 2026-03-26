@@ -81,20 +81,30 @@ o	POS
 
 •	High concentration of transactions among top beneficiaries 
 
-🛠️ Tools & Technologies
+## Live Interactive Dashboard
+
+Click below to explore the dashboard online (fully interactive):
+
+🔗 [View Live Excel Dashboard](https://1drv.ms/v/c/74575ae627cd1b05/IQAihlKQ9kOyTL75f52XkAWZAT9aABDB45Q1lpXg825W4bQ?e=SebR02)
+
+## Tools & Technologies
+
 •	Microsoft Power BI – Data visualization & dashboard creation 
+
 •	Power Query – Data transformation 
+
 •	DAX – Calculations and measures 
+
 •	Power Point – Wireframe creation
-________________________________________
-🚀 How to Use
+
+ ## How to Use
 1.	Open the .pbix file in Microsoft Power BI 
 2.	Refresh the dataset if needed 
 3.	Use filters and visuals to explore insights 
 4.	Interact with charts for deeper analysis 
-________________________________________
-📷 Dashboard Preview
-(Insert screenshot here if uploading to GitHub)
+
+## 👤 Author
+
 ________________________________________
 
 
