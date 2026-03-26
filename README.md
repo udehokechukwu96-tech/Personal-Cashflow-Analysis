@@ -35,11 +35,11 @@ This is not just a dashboard built for the thrill of it. The objective of this p
 
 •	Breaks down spending into: 
 
-o	Others: This is the sum of all the expenses, excluding just the Data Bundle and Airtime Bundle
+◻️	Others: This is the sum of all the expenses, excluding just the Data Bundle and Airtime Bundle
 
-o	Data Bundle 
+◻️	Data Bundle 
 
-o	Airtime Bundle 
+◻️	Airtime Bundle 
 
 The differentiation into Data and Airtime Bundles was made to visualize the total amount spent on purchasing data and airtime bundles. Overall, the total of **₦34.71K** was spent on airtime bundle, and **₦164.3K** was spent on data bundle (nearly five times more than what was spent on airtime).
 
@@ -47,13 +47,13 @@ The differentiation into Data and Airtime Bundles was made to visualize the tota
 
 •	Distribution across: 
 
-o	Mobile
+◻️	Mobile
 
-o	USSD 
+◻️	USSD 
 
-o	Web
+◻️	Web
 
-o	POS 
+◻️	POS 
 
 •	Helps understand preferred transaction channels. Mobile accounts for the dominant expense channel, about 98.25%.
 
