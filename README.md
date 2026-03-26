@@ -104,7 +104,12 @@ Click below to explore the dashboard online (fully interactive):
 4.	Interact with charts for deeper analysis 
 
 ## 👤 Author
+Ude Okechukwu Agha Data Analyst | Business Intelligence Enthusiast
 
-________________________________________
+www.linkedin.com/in/ude-okechukwu-570511256
+
+https://github.com/udehokechukwu96-tech
+
+
 
 
