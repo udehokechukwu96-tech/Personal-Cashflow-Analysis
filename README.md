@@ -21,12 +21,12 @@ This is not just a dashboard built for the thrill of it. The objective of this p
 
 •	Displays total income **(₦4.19M)**
 
-•	Tracks income trend across 1000 transactions 
+•	Tracks income trend across 1,000 transactions 
 
 # Expense Analysis
 •	Total expenses **(₦4.22M)**
 
-•	Displays expenses trend and fluctuations across 1089 transactions 
+•	Displays expenses trend and fluctuations across 1,089 transactions 
 
 # Top Beneficiaries
 •	Highlights top 10 recipients of funds to determine immediately the top ten beneficiaries
