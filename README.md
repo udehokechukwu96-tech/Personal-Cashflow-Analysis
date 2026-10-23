@@ -85,7 +85,7 @@ The differentiation into Data and Airtime Bundles was made to visualize the tota
 
 Click below to explore the dashboard online (fully interactive):
 
-🔗 [View project demo online](https://drive.google.com/file/d/1b-gu3rMqOoaIAptgIb1OdXFUlKmyWkOn/view?usp=drive_link)
+🔗 [**View project demo online**](https://drive.google.com/file/d/1b-gu3rMqOoaIAptgIb1OdXFUlKmyWkOn/view?usp=drive_link)
 
 ## Tools & Technologies
 
